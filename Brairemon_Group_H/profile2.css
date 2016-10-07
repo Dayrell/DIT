@@ -1,0 +1,62 @@
+html {
+	background-color: white;
+	
+}
+h1 {
+	font-size: 150%;
+	text-align: center;
+	font-family: "Arial", sans-serif;
+	font-weight: bold;
+	position: absolute;
+	top: 50px;
+	left: 550px;
+	
+}
+h6 {
+	font-size: 100%;
+	font-family: "Arial", sans-serif;
+	position: absolute;
+	bottom:260px;
+	left:540px;
+	text-align: center;
+}
+div.username{
+	font-family: "Arial", sans-serif;
+	position:absolute;
+	top: 140px;
+	left: 550px;
+}
+div.highscore{
+	font-family: "Arial", sans-serif;
+	position: absolute;
+	top:170px;
+	left: 550px;
+}
+
+	
+.upload{
+	position:absolute;
+	bottom:500px;
+	width:70px;
+	height: 30px;
+	right:1100px;
+	}
+div.percentbar {
+	background:#ff3333;
+	height: 30px;
+	position: absolute;
+	bottom: 300px;
+	left: 540px;
+	}
+.percentbar { 
+
+background:#CCCCCC; 
+border:1px solid #666666; 
+height:30px;
+left: 540px;
+position: absolute;
+bottom: 300px;
+}
+
+
+

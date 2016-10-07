@@ -1,0 +1,51 @@
+div.section {
+	background-color: cornflowerblue;
+    width: 700px;
+	padding: 10px;
+    margin: 10px;
+	border:	10px black;
+	position: absolute;
+	right: 250px;
+}
+
+h1 {
+	text-align: center;
+	font-family: "Arial", sans-serif;
+	font-weight: bold;
+	position: absolute;
+	bottom: 70px;
+	left: 560px;
+	font-size: 140%;
+	bottom: 160px;
+}
+
+div.run {
+	width: 400px;
+	padding: 15px;
+	margin: 10px;
+	position: absolute;
+	border:	10px solid red;
+	left: 100px;
+	bottom: 35px;
+	
+	
+}
+
+.print {
+	color: purple;
+}
+
+.hw {
+	color: green;
+}
+
+div.output {
+	color: blue;
+	width: 400px;
+	padding: 15px;
+	margin: 10px;
+	position: absolute;
+	border: 10px solid red;
+	left: 700px;
+	bottom: 35px;
+}

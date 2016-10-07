@@ -1,0 +1,47 @@
+div.section {
+	background-color: cornflowerblue;
+	position: absolute;
+	left: 100px;
+	width: 450px;
+	margin: 5px;
+	padding: 5px;
+}
+
+h4 {
+	text-align: center;
+	font-family: "Arial", sans-serif;
+	font-weight: bold;
+}
+
+div.section2 {
+	background-color: cornflowerblue;
+	position: absolute;
+	right: 200px;
+	width: 450px;
+	padding: 5px;
+	
+}
+
+p {
+	font-family: "Arial", sans-serif;
+	
+}
+
+div.codebox {
+	width: 450px;
+	position: absolute;
+	border:	6px solid red;
+	left: 0px;
+	font-weight: bold;
+	padding: 3px;
+	
+	
+}
+
+.prompt {
+	color: red;
+}
+
+.answer {
+	color: blue;
+}
